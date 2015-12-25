@@ -1,0 +1,6 @@
+*.py[co]
+
+build/
+dist/
+*.egg
+*.egg_info
