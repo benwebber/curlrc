@@ -7,7 +7,7 @@ setuptools.setup(
     version='0.1.0',
     url='https://github.com/benwebber/curlrc/',
 
-    description="",
+    description="Treat curl configuration files as curlrc subcommands.",
     long_description=open('README.rst').read(),
 
     author='Ben Webber',
