@@ -16,7 +16,7 @@ import os.path
 import re
 import sys
 
-__version__ = '0.1.1'
+__version__ = '0.2.0'
 
 CURL_HOME = os.getenv('CURL_HOME', os.path.expanduser('~/.curl'))
 CURLRC_EXTENSION = '.rc'
