@@ -4,7 +4,7 @@ import setuptools
 
 setuptools.setup(
     name='curlrc',
-    version='0.1.0',
+    version='0.1.1',
     url='https://github.com/benwebber/curlrc/',
 
     description="Treat curl configuration files as curlrc subcommands.",
