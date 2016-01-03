@@ -13,7 +13,7 @@ setuptools.setup(
     author='Ben Webber',
     author_email='benjamin.webber@gmail.com',
 
-    packages=setuptools.find_packages(),
+    py_modules=['curlrc'],
 
     zip_safe=False,
 
