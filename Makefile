@@ -14,7 +14,8 @@ Targets:
   dist        build source distribution and wheel
   install     install package to active Python site packages
   release     build and upload package to PyPI
-  dist        build source distribution
+  sdist       build source distribution
+  test        run tox tests
   wheel       build wheel
 endef
 
@@ -39,6 +40,9 @@ release: dist
 
 sdist: clean
 	python setup.py sdist
+
+test:
+	tox
 
 wheel: clean
 	python setup.py bdist_wheel
