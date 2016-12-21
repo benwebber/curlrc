@@ -1,6 +1,9 @@
 curlrc
 ======
 
+.. image:: https://travis-ci.org/benwebber/curlrc.svg?branch=master
+    :target: https://travis-ci.org/benwebber/curlrc
+
 Treat curl configuration files as ``curlrc`` subcommands.
 
 Usage

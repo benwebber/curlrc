@@ -1,0 +1,6 @@
+pluggy==0.4.0
+py==1.4.32
+pytest==3.0.5
+tox==2.5.0
+travis-tox==0.1.0
+virtualenv==15.1.0
