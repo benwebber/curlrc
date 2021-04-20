@@ -1,5 +1,5 @@
 pluggy==0.4.0
-py==1.4.32
+py==1.10.0
 pytest==3.0.5
 tox==2.5.0
 tox-travis==0.7.2
